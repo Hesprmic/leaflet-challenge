@@ -1,1 +1,2 @@
 # leaflet-challenge
+Finally was able to complete this challenge. Tyler was a huge help with this. Javascript is not my favorite. One of the most challenging parts of this homework, other than the javascript code itself was fixing the css file to properly align the legend on the map. No about of troubleshooting was helping until I basically got lucky. Instead of increasing the legend box I decreased it which forced the colors and depth numbers to line up. I need to do outside work on how to make a transitional gradient of colors for legends.
